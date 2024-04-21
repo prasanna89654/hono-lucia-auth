@@ -1,0 +1,10 @@
+name = "hono-lucia-auth"
+compatibility_date = "2024-04-20"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "prasanna-hono-lucia-auth"
+database_id = "111-222-333"
+migrations_table = "d1_migrations"
+migrations_dir = "src/db/migrations"
+
